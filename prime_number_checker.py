@@ -1,4 +1,3 @@
-# Write your code below this line 👇
 def prime_checker(number):
     is_prime = True
     for i in range(2, number):
