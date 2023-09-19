@@ -31,4 +31,9 @@ for char in password:
     password_list += char
 print(f"your password is: {password_list}")
 
+#this code create random password, example if we input 2 numbers 2 symbols and 2 letters 
+#then the output is A2%a@5 (this will create ramdomely)
+
+
+
 
