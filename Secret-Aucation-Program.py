@@ -1,7 +1,7 @@
 from replit import clear
 from art import logo
+print(logo)
 
-# print(logo)
 print("Hii there, welcome to the secret aucation program")
 bidding = {}
 bidding_continue = True
@@ -29,3 +29,8 @@ while bidding_continue:
 
     elif bidders_in_bidding == "y":
         clear()
+
+
+# if this program diden't work in your ide then 
+# comment off frist 3 line and also comment off line 31 clear() in very last line
+# after that your program works without any error
